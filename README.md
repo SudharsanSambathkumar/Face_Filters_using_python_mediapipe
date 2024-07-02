@@ -15,8 +15,8 @@ This project applies various face filters using computer vision techniques. The 
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/face-filters.git
-cd face-filters
+git clone https://github.com/SudharsanSambathkumar/Face_Filters_using_python_mediapipe.git
+cd Face_Filters_using_python_mediapipe
 ```
 
 2. Install the required packages:
