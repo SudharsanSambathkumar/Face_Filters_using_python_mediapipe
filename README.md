@@ -1,6 +1,12 @@
 # Face_Filters_using_python_mediapipe
 
-This project applies various face filters using computer vision techniques. The filters include masks and accessories from popular superhero characters like Deadpool, Wolverine, and Captain America.
+## Description
+This project demonstrates how to use computer vision to overlay various filters on faces. By utilizing OpenCV and other Python libraries, the project can detect faces in an image and superimpose fun and thematic filters based on popular superhero characters.
+
+## Sample Filters
+- **Deadpool Mask**: Adds Deadpool's mask over the face.
+- **Wolverine Mask and Claws**: Adds Wolverine's mask and claws to the face and hands.
+- **Captain America's Shield**: Adds Captain America's shield.
 
 ## Project Structure
 - `main.ipynb`: Jupyter Notebook containing the main code for applying face filters.
@@ -35,10 +41,3 @@ python main.py
 
 4. Follow the instructions in `main.ipynb` or `main.py` to see the face filters applied to sample images.
 
-## Description
-This project demonstrates how to use computer vision to overlay various filters on faces. By utilizing OpenCV and other Python libraries, the project can detect faces in an image and superimpose fun and thematic filters based on popular superhero characters.
-
-## Sample Filters
-- **Deadpool Mask**: Adds Deadpool's mask over the face.
-- **Wolverine Mask and Claws**: Adds Wolverine's mask and claws to the face and hands.
-- **Captain America's Shield**: Adds Captain America's shield.
